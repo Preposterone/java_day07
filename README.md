@@ -49,9 +49,12 @@ the answer is no :)
 # Chapter III
 ### Exercise 00 – Work with Classes
 
-Exercise 00: Work with Classes
-Turn-in directory	ex00
-Files to turn-in	Reflection-folder
+Exercise 00: Work with Classes ||
+---|---
+Turn-in directory	| ex00
+Files to turn-in |	Reflection-folder
+
+
 Now you need to implement a Maven project that interacts with classes of your application. We need to create at least two classes, each having:
 - private fields (supported types are String, Integer, Double, Boolean, Long)
 - public methods
